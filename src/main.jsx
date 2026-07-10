@@ -22,9 +22,9 @@ createRoot(document.getElementById('root')).render(
     {/* <Playground /> */}
     
     {/* <Banking /> */}
-    {/* <ProductProvider>
+    <ProductProvider>
       <Invento />
-      </ProductProvider> */}
-      <Meal />
+      </ProductProvider>
+      {/* <Meal /> */}
   </StrictMode>,
 )
